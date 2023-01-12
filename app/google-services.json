@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "364698342791",
-    "project_id": "ptest-80ff9",
-    "storage_bucket": "ptest-80ff9.appspot.com"
+    "project_number": "1064983637716",
+    "firebase_url": "https://chatapporigin-default-rtdb.firebaseio.com",
+    "project_id": "chatapporigin",
+    "storage_bucket": "chatapporigin.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:364698342791:android:7a4e21deb1f828fb01af22",
+        "mobilesdk_app_id": "1:1064983637716:android:76414b2f1cb2bb079a1541",
         "android_client_info": {
-          "package_name": "com.ex.deeplinks"
+          "package_name": "com.ex.mvvmbasics"
         }
       },
       "oauth_client": [
         {
-          "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+          "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChvEfUnqg6H-WtKjl_Q55sVFLbmFODDzY"
+          "current_key": "AIzaSyC76uCWnmUyu1aQo4d5yd_ujsmBU9DjzxY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+              "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -36,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:364698342791:android:70daa004095860f001af22",
+        "mobilesdk_app_id": "1:1064983637716:android:2a776b8c636eeb819a1541",
         "android_client_info": {
-          "package_name": "com.example.projectsetupkotlin"
+          "package_name": "com.ex.protodatastore"
         }
       },
       "oauth_client": [
         {
-          "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+          "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChvEfUnqg6H-WtKjl_Q55sVFLbmFODDzY"
+          "current_key": "AIzaSyC76uCWnmUyu1aQo4d5yd_ujsmBU9DjzxY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+              "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -65,27 +66,64 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:364698342791:android:c5d94c4bc796156b01af22",
+        "mobilesdk_app_id": "1:1064983637716:android:20a0aa3290f067079a1541",
         "android_client_info": {
-          "package_name": "com.rajat.myapplication"
+          "package_name": "com.rajkamal.ChatApp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+          "client_id": "1064983637716-kalmnf58cv6ofafou6i7b0h3ttp58hsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajkamal.ChatApp",
+            "certificate_hash": "7f4f0d90f8f1714316326afb0c8f4a96090a0239"
+          }
+        },
+        {
+          "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChvEfUnqg6H-WtKjl_Q55sVFLbmFODDzY"
+          "current_key": "AIzaSyC76uCWnmUyu1aQo4d5yd_ujsmBU9DjzxY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "364698342791-g0rjb3khd60kkp7hi1510r6ivsve6h1q.apps.googleusercontent.com",
+              "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064983637716:android:3b1d617d7a38e66a9a1541",
+        "android_client_info": {
+          "package_name": "com.rajkamal.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76uCWnmUyu1aQo4d5yd_ujsmBU9DjzxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064983637716-8kc45l6n0ej2ioim5df0n7jgki10an1t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">DeepLinks</string>
-    <string name="send_to">Send TO</string>
+    <string name="app_name">MVVMBasics</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.ex.deeplinks
+package com.ex.mvvmbasics
 
 import org.junit.Test
 
